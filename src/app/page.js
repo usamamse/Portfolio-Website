@@ -22,7 +22,7 @@ export default function Home() {
     <div className="w-full overflow-x-hidden min-h-screen grid lg:grid-cols-[1fr_0.6fr_0.4fr] gap-[20px]">
       <div className="max-w-[600px] w-[90%] mx-auto py-[30px]">
 
-        <Image src="/logo.png" width={120} height={80} className="max-h-[80px] h-full object-contain object-bottom" alt="logo" />
+        <Image src="/Logo.png" width={120} height={80} className="max-h-[80px] h-full object-contain object-bottom" alt="logo" />
 
         <div className="flex flex-col justify-center h-[80%]">
           <span className="text-[#4e69e0] font-[600]">Hi, my name is</span>
